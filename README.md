@@ -3,4 +3,4 @@ Este repositório contém uma aplicação interativa desenvolvida com Streamlit 
 
 Uma pequena visualização de um protótipo que depois irei fazer mais ajustes e deixar mais responsivo e bonito esse chatzinho
 
-![alt text](image-1.png)
+![alt text](image.png)
